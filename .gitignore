@@ -1,0 +1,11 @@
+# Gitignores should include generated artifacts...
+
+# Gradle
+/build/
+.gradle
+
+# IntelliJ
+.idea/
+
+# MacOS
+.DS_STORE
